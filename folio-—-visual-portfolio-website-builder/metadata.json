@@ -1,0 +1,8 @@
+{
+  "name": "FOLIO — Visual Portfolio Website Builder",
+  "description": "Design, customize, and publish production-ready personal portfolio websites with live preview, 8 distinct templates, AI writing assistant, and instant static site export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
